@@ -1,0 +1,18 @@
+---
+---
+
+@import "minima";  /* keep minima's base styles */
+
+/* Override background and text colors */
+body {
+  background-color: #000000; /* black background */
+  color: #ffffff;           /* white text */
+}
+
+a {
+  color: #00ffcc; /* neon cyan links */
+}
+
+h1, h2, h3 {
+  color: #ffcc00; /* yellow headers */
+}
