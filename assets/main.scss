@@ -1,19 +1,19 @@
----
+/*---
 ---
 
 @import "minima";  /* keep minima's base styles */
 
 /* Override background and text colors */
-body {
+/*body {
   background-color: #000000; /* black background */
-  color: #ffffff;           /* white text */
-}
+/*  color: #ffffff;           /* white text */
+/*}
 
 a {
   color: #ff0000; /* neon cyan links */
-}
+/*}
 
-/*
+
 
 .site-description {
   display: none !important; /* hide subtitle/description */
