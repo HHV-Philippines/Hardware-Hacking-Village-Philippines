@@ -13,11 +13,10 @@ a {
   color: #00ffcc; /* neon cyan links */
 }
 
-.site-title {
-  display: none !important;
+.site-header .site-title {
+  display: none !important; /* hide Minima’s auto title */
 }
 
 .site-description {
-  display: none !important;
+  display: none !important; /* hide subtitle/description */
 }
-
