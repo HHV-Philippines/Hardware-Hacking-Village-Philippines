@@ -1,0 +1,22 @@
+---
+---
+
+@import "minima";  /* keep minima's base styles */
+
+/* Override background and text colors */
+body {
+  background-color: #000000; /* black background */
+  color: #ffffff;           /* white text */
+}
+
+a {
+  color: #00ffcc; /* neon cyan links */
+}
+
+.site-header .site-title {
+  display: none !important; /* hide Minima’s auto title */
+}
+
+.site-description {
+  display: none !important; /* hide subtitle/description */
+}
