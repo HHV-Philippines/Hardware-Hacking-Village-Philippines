@@ -48,4 +48,3 @@ If you have any feedback, please reach out to us at fake@fake.com
 
 [![facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/HardwareHackingVillagePH)
 
-![Logo](/assets/img/hhv.png)
