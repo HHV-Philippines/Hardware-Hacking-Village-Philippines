@@ -1,7 +1,3 @@
 theme: minima
 title: Hardware Hacking Village PH
 description: A community of hardware enthusiasts in the Philippines.
-
-# Tell Jekyll to look at custom CSS
-minima:
-  skin: classic
