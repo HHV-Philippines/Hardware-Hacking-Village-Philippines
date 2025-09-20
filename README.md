@@ -1,4 +1,4 @@
-# Hardware Hacking Village PH
+
 
 <img width="200" height="200" alt="image" src="https://www.rootcon.org/assets/events/rc19/images/villages/hhv.png" />
 
