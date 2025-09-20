@@ -1,5 +1,8 @@
+---
+layout: default
+title: Hardware Hacking Village
+---
 
---- layout: default ---
 
 
 # Hardware Hacking Village
