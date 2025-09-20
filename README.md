@@ -1,4 +1,7 @@
-
+<div style="background-color:black; color:white; padding:20px;">
+  <h2>Hardware Hacking Village PH</h2>
+  <p>This block will have a white background and black text.</p>
+</div>
 
 
 # Hardware Hacking Village
