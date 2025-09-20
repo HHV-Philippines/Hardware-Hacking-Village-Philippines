@@ -1,6 +1,3 @@
-<div style="background-color:black; color:white; padding:20px;">
-  <h2>Hardware Hacking Village PH</h2>
-  <p>This block will have a white background and black text.</p>
 
 
 
@@ -50,4 +47,3 @@ If you have any feedback, please reach out to us at fake@fake.com
 
 [![facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/HardwareHackingVillagePH)
 
-</div>
