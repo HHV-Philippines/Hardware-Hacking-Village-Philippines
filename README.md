@@ -1,22 +1,12 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-
-# Project Title
-HARDWARE HACKING VILLAGE
 
 
 
-AAAA
-AAAAA
-AAAA
-## Deployment
+# Hardware Hacking Village
 
-To deploy this project run
 
-```bash
-  npm run deploy
-```
+<img width="200" height="200" alt="image" src="https://www.rootcon.org/assets/events/rc19/images/villages/hhv.png" />
+Hardware Hacking Village PH is a community of hardware enthusiasts dedicated to the art of tinkering and DIY projects. Our village welcomes individuals of all skill levels, from seasoned experts to those just beginning their journey in hardware hacking. We are passionate about exploring the endless possibilities of hardware technology, and we encourage our members to experiment, innovate, and share their knowledge. Whether you're interested in soldering, circuit design, IoT, or any other aspect of hardware hacking, you'll find a supportive and inspiring environment at Hardware Hacking Village PH.
 
 
 ## Screenshots
@@ -24,40 +14,8 @@ To deploy this project run
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  npm run test
-```
 
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
 
 
 ## Feedback
@@ -98,6 +56,4 @@ Answer 2
 
 [![facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/HardwareHackingVillagePH)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
