@@ -12,11 +12,6 @@ Hardware Hacking Village PH is a community of hardware enthusiasts dedicated to 
 
 
 
-## Feedback
-
-If you have any feedback, please reach out to us at fake@fake.com
-
-
 ## Projects
 
 - [ROOTCON19 BADGE](https://github.com/HHV-Philippines/Hardware-Hacking-Village-Philippines/tree/main/RC19%20BADGE)
@@ -45,6 +40,9 @@ Answer 1
 
 Answer 2
 
+## Feedback
+
+If you have any feedback, please reach out to us at fake@fake.com
 
 ## 🔗 Links
 
