@@ -1,6 +1,10 @@
+---
+---
+@import "minima";  /* keep minima's base styles */
+
 body {
   background-color: #000000; /* black background */
-  color: #ffffff;           /* white text */
+  color: #ffffff;            /* white text */
 }
 
 a {
