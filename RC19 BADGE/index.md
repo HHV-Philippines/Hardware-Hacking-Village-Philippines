@@ -1,5 +1,3 @@
-
-
 # ROOTCON 19 BADGE
 
 
