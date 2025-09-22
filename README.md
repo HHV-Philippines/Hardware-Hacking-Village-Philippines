@@ -9,8 +9,9 @@ Hardware Hacking Village PH is a community of hardware enthusiasts dedicated to 
 
 ## Projects
 
-- [ROOTCON19 BADGE](https://github.com/HHV-Philippines/Hardware-Hacking-Village-Philippines/blob/main/RC19%20BADGE/README.md)
-- [WIFI DUCK](https://github.com/HHV-Philippines/Hardware-Hacking-Village-Philippines/blob/main/WIFI%20DUCK/README.md)
+- [ROOTCON19 BADGE](RC19%20BADGE/)
+- [WIFI DUCK](WIFI%20DUCK/)
+
 
 
 
