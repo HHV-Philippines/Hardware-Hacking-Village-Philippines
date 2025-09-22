@@ -21,17 +21,18 @@ a {
   display: none !important; /* hide subtitle/description */
 }
 
+/* Inline code */
 code {
-  background-color: #222 !important;
-  color: #ffcc00 !important;
+  background-color: #000 !important; /* pure black */
+  color: #fff !important;            /* white text */
   padding: 2px 4px;
   border-radius: 4px;
 }
 
 /* Fenced code blocks */
 pre code {
-  background-color: #111 !important;
-  color: #00ffcc !important;
+  background-color: #000 !important; /* pure black */
+  color: #fff !important;            /* white text */
   display: block;
   padding: 10px;
   border-radius: 6px;
