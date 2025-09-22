@@ -3,3 +3,6 @@ title: RC19 BADGE
 
 minima:
   skin: classic
+
+# disable syntax highlighting CSS
+highlighter: none
