@@ -5,60 +5,27 @@
 <img width="436" height="458" alt="image" src="https://github.com/user-attachments/assets/25a2a94c-f3f9-4825-8ba2-2509efbda489" />
 
 
+asdfasdfdfsf
+asdfsdf
+asdfasdf
+asdfdsf
 
 
 
-AAAA
-AAAAA
-AAAA
-## Deployment
+## Features
 
-To deploy this project run
 
-```bash
-  npm run deploy
-```
+aasdfas
+
+sdf
+asdf
+s
+df
 
 
 ## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  npm run test
-```
-
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
 
 
 ## Feedback
@@ -98,5 +65,6 @@ Answer 2
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
 
 
