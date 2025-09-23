@@ -15,31 +15,21 @@ Hardware Hacking Village PH is a community of hardware enthusiasts dedicated to 
 
 ## Acknowledgements
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 
-## Authors
+## Team
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- m0gul
+- cupid14y
+- st3llar8
+- 0x00
+- lidivye
+- Xekeia
 
 
-## FAQ
-
-#### Question 1
-
-Answer 1
-
-#### Question 2
-
-Answer 2
-
-## Feedback
-
-If you have any feedback, please reach out to us at fake@fake.com
 
 ## 🔗 Links
 
-[![facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/HardwareHackingVillagePH)
-
+[![facebook](https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/HardwareHackingVillagePH)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hardwarehackingvillageph/)
+[![youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HardwareHackingVillagePH)
