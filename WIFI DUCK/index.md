@@ -5,54 +5,21 @@
 AAAA
 AAAAA
 AAAA
-## Deployment
 
-To deploy this project run
+## Features
 
-```bash
-  npm run deploy
-```
+
+aasdfas
+
+sdf
+asdf
+s
+df
 
 
 ## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  npm run test
-```
-
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
 
 
 ## Feedback
