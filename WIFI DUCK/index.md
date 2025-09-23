@@ -17,6 +17,10 @@ What it can do (practical capabilities)
   •	Cross-Platform — Works on any system that accepts keyboard input, including Windows, macOS, and Linux.
   
 
+## Photos
+![Photo](https://hhv-philippines.github.io/Hardware-Hacking-Village-Philippines/WIFI%20DUCK/assets/461323231_17855997447267621_6206424666645227792_n.jpg)
+
+
 
 ## Screenshots
 
