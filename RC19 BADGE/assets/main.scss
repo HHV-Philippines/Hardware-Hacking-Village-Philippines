@@ -21,29 +21,3 @@ a {
   display: none !important; /* hide subtitle/description */
 }
 
-/* Force ALL code blocks to be black background with white text */
-pre,
-pre.highlight,
-pre.highlight code,
-div.highlight,
-div.highlight pre,
-div.highlight code {
-  background-color: #000 !important; /* pure black */
-  color: #fff !important;            /* pure white */
-  border-radius: 6px;
-  padding: 10px;
-  overflow-x: auto;
-}
-
-/* Inline code */
-code {
-  background-color: #000 !important; /* pure black */
-  color: #fff !important;            /* pure white */
-  padding: 2px 4px;
-  border-radius: 4px;
-}
-
-.highlight, .highlight * {
-  background: #000 !important;
-  color: #fff !important;
-}
